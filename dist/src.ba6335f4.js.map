@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["val1","console","log"],"mappings":";AACA,IAAIA,EAAO,QACXC,QAAQC,IAAIF","file":"src.ba6335f4.js","sourceRoot":"..","sourcesContent":["// const letの関数宣言\nvar val1 = \"var変数\";\nconsole.log(val1);"]}
